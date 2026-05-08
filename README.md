@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Higor Alves and I'm a Full Stack Developer from Brazil.</p>
+<p align="left">My name is Higor Vitório and I'm a Full Stack Developer from Brazil.</p>
 
 ###
 
